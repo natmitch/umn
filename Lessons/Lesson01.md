@@ -1,5 +1,3 @@
-# Lesson 1 
-
-## Presentation
-
-You can find the presentation for lesson 1: https://drive.google.com/file/d/1ukLr3aX5dVezxnQnryMHLdxECqs3xiC1/view?usp=sharing
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5942ebf0f469efab42bf916df341c74f1271288eda3fe40f7c84afa45f8715
+size 156
