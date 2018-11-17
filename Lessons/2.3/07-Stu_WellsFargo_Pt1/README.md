@@ -2,9 +2,9 @@
 
 ## Instructions
 
-1. Extract words before the phrase "\_Wells_Fargo" from the worksheet titles to figure out the state.
+1. Extract words before the phrase "\_Wells_Fargo" to figure out the state.
 
-2. Insert a new column, titled State, into each spreadsheet and add the state to every row in the new column 
+2. Add the state to the first column of each spreadsheet.
 
 3. Convert the headers of each row to simply say the year.
 
