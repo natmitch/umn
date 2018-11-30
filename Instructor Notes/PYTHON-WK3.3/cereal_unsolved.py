@@ -17,8 +17,24 @@
 ## Bonus
    * Try the following again but this time using `cereal_bonus.csv`, which does not include a header.
 """
+# include helper library(ies) - dependencies 
 
 import os
 import csv
 
+# add items for my prog
 cereal_csv = os.path.join("../Resources", "cereal.csv")
+
+# open the csv file
+with open(cereal_csv, newline="") as csvfile:
+  
+  csvreader = csv.reader(csvfile, delimiter = ",")
+  csv_header = next(csvfile)
+
+  print(f"Header: {csv_header}")
+
+  for row in csvreader:
+    if float(row[7]) >= 5:
+      print(row)
+    else:
+      print(row)
