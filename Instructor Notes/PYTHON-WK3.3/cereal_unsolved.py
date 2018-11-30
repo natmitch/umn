@@ -1,6 +1,6 @@
+
 """
 # Instructions
-
 * Open the file, `cereal.csv` and start by skipping the header row. See hints below for this.
 * Read through the remaining rows and find the cereals that contain five grams of fiber or more, printing the data from those rows to the terminal.
 ## Hint
@@ -13,12 +13,10 @@
    * Integers in Python are whole numbers and, as such,
      cannot contain decimals. As such, your numbers containing decimal points
      will have to be cast as a `float.
-
 ## Bonus
    * Try the following again but this time using `cereal_bonus.csv`, which does not include a header.
 """
 # include helper library(ies) - dependencies 
-
 import os
 import csv
 
@@ -27,14 +25,18 @@ cereal_csv = os.path.join("../Resources", "cereal.csv")
 
 # open the csv file
 with open(cereal_csv, newline="") as csvfile:
-  
   csvreader = csv.reader(csvfile, delimiter = ",")
+
+  # create a csv reader
   csv_header = next(csvfile)
 
+  # print the header
   print(f"Header: {csv_header}")
 
+  # loop thru csv file
   for row in csvreader:
+    
+    # to find cereal that are >= 5 gr of fibers
     if float(row[7]) >= 5:
-      print(row)
-    else:
+      # if found print row
       print(row)
