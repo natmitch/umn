@@ -16,25 +16,25 @@
 
 ### Key Activities
 
-* [Basic Plot](1/Activities/02-Stu_NJTemp)
+* [Basic Plot](Activities/02-Stu_NJTemp)
 
-* [Bar Charts](1/Activities/08-Stu_PyBars)
+* [Bar Charts](Activities/08-Stu_PyBars)
 
-* [Scatter Plots](1/Activities/12-Stu_ScatterPy)
+* [Scatter Plots](Activities/12-Stu_ScatterPy)
 
-* [Pandas Plotting](2/Activities/03-Stu_BattlingKings)
+* Pandas Plotting (2/Activities/03-Stu_BattlingKings)
 
-* [Plotting Groups](2/Activities/05-Stu_BikeTrippin)
+* Plotting Groups (2/Activities/05-Stu_BikeTrippin)
 
-* [Plotting Multi-lines](2/Activities/07-Ins_PandasMultiLine)
+* Plotting Multi-lines (2/Activities/07-Ins_PandasMultiLine)
 
-* [Mean, Median, Mode](3/Activities/01-Ins_Mean_Median_Mode)
+* Mean, Median, Mode (3/Activities/01-Ins_Mean_Median_Mode)
 
-* [Variance](3/Activities/02-Ins_Variance_and_Z_Score)
+* Variance (3/Activities/02-Ins_Variance_and_Z_Score)
 
-* [Quartiles](3/Activities/04-Stu_Quartiles_and_Outliers)
+* Quartiles (3/Activities/04-Stu_Quartiles_and_Outliers)
 
-* [Standard Error](3/Activities/06-Stu_Standard_Error)
+* Standard Error (3/Activities/06-Stu_Standard_Error)
 
 ### Helpful Links
 
