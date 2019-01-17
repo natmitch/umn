@@ -10,11 +10,11 @@
 
   ![developer default](../Images/mysql_install_option.png)
 
-* Next, the Installer checks to see if it can automatically install all the components for you. You may need to uninstall a previous version of MySQL, or manually install a component. Once all the requirement is met, you can press the 'Check' button to make sure the 'status' column is either 'completed' or empty. Press 'Execute' to move to the next step. Do NOT use the 'Next' button to bypass the requirement check. The installation will fail. 
+* Next, the Installer checks to see if it can automatically install all the components for you. You may need to uninstall a previous version of MySQL, or manually install a component. Once all requirements are met, you can press the 'Check' button to make sure the 'status' column is either 'completed' or empty. Press 'Execute' to move to the next step. Do NOT use the 'Next' button to bypass the requirement check. The installation will fail. 
 
   ![mysql_failed_requirements](../Images/mysql_failed_requirements.PNG)
 
-* Continue clicking moving on to finish the installation. Once complete, click `execute` in the installation section. This will take some time while it downloads and installs the necessary programs.
+* Next is the installation page. The installation will take some time.
 
   ![mysql_install_option](../Images/mysql_installing.png)
 
