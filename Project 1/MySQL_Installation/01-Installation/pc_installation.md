@@ -1,6 +1,6 @@
 # Windows MySQL Installation
 
-* Download the MySQL installer from [here](https://dev.mysql.com/downloads/windows/installer/5.7.html) and be sure to choose the larger of the two options.
+* Download the MySQL installer from [here](https://dev.mysql.com/downloads/windows/installer/5.7.html) and be sure to choose the larger of the two options. 
 
   ![Mysql download](../Images/pc_mysql_download.png)
 
@@ -10,7 +10,7 @@
 
   ![developer default](../Images/mysql_install_option.png)
 
-* Next, the Installer checks to see if it can automatically install all the components for you. You may need to uninstall a previous version of MySQL, or manually install a component. Once all requirements are met, you can press the 'Check' button to make sure the 'status' column is either 'completed' or empty. Press 'Execute' to move to the next step. Do NOT use the 'Next' button to bypass the requirement check. The installation will fail. 
+* Next, the Installer checks to see if it can automatically install all the components for you. You may need to uninstall a previous version of MySQL, or manually install a couple requirements as shown in the following example. Once all requirements are met, you can press a 'Check' button to make sure the 'status' column is either 'completed' or empty. Press 'Execute' to move to the next step. Do NOT use the 'Next' button to bypass the requirement check. The installation will fail. 
 
   ![mysql_failed_requirements](../Images/mysql_failed_requirements.PNG)
 
