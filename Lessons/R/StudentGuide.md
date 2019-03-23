@@ -17,12 +17,12 @@
 
 ## Key Activities
 
-* [R Basics](1/Activities/02_Stu_RBasics)
-* [Vectors and Pipes](1/Activities/03_Ins_Vectors)
-* [Tibbles](1/Activities/06_Stu_Tibble)
-* [UFOs R Here](2/Activities/01-Stu_UFO)
-* [Tibbles and Tibbles](2/Activities/03-Stu_Tibbles_and_Tibbles)
-* [School Tibbles](2/Activities/05-School_Tibble)
+* [R Basics](18.1/Activities/02_Stu_RBasics)
+* [Vectors and Pipes](18.1/Activities/03_Ins_Vectors)
+* [Tibbles](18.1/Activities/06_Stu_Tibble)
+* [UFOs R Here](18.2/Activities/01-Stu_UFO)
+* [Tibbles and Tibbles](18.2/Activities/03-Stu_Tibbles_and_Tibbles)
+* [School Tibbles](18.2/Activities/05-School_Tibble)
 
 ## Helpful Links
 
